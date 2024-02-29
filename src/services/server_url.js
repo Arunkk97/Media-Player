@@ -1,0 +1,1 @@
+export const SERVER_URL="https://mp-server-4j4u.onrender.com"
